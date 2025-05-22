@@ -20,3 +20,5 @@ TelnetClient
 IIS-WebServerRole
 
 dism /online /get-features
+
+gpupdate /force !!!
